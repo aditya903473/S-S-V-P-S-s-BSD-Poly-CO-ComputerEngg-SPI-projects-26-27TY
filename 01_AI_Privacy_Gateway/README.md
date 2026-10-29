@@ -6,10 +6,10 @@ This repository contains Third Year (CO5K) SPI projects for Academic Year: 2026-
 
 
 
-1. Project Title: AI Privacy Gateway
+1\. Project Title: AI Privacy Gateway
 
 
-2. Project Description: 
+2\. Project Description: 
 
 
 
@@ -19,11 +19,11 @@ This repository contains Third Year (CO5K) SPI projects for Academic Year: 2026-
 
 3\. Group no and Team members:
 
-388494 - Ansari Mohammad Sami Zahid Husain
+  388494 - Ansari Mohammad Sami Zahid Husain
 
-388496 - Bagul Aditya Yuvraj
+  388496 - Bagul Aditya Yuvraj
 
-388498 - Bhadane Madhuri Ajay
+  388498 - Bhadane Madhuri Ajay
 
-388536 - Palve Pavitra Kiran
+  388536 - Palve Pavitra Kiran
 
