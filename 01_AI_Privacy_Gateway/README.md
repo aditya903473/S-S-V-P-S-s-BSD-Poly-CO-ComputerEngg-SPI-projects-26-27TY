@@ -17,7 +17,9 @@ This repository contains Third Year (CO5K) SPI projects for Academic Year: 2026-
 
 
 
-3\. Group no and Team members:
+3\. Group no and Team members: 
+
+  Group No: 1
 
   388494 - Ansari Mohammad Sami Zahid Husain
 
